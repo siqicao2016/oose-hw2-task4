@@ -54,7 +54,7 @@ $ git commit -m "Working on bug-1"
 
 $ git switch bug-2
 
-$ git stash
+git stash
 
 $ git switch bug-2
 
